@@ -9,6 +9,7 @@ const requiredText = [
   "https://emoon0108.github.io/Ethan_Moon_Resume.pdf",
   "https://www.linkedin.com/in/ethan-moon-b9a2a7314/",
   "https://github.com/BoatingToast/nospoilers",
+  "https://github.com/emoon0108/academic-planner",
   "https://github.com/emoon0108/ViolinTwin",
   "https://github.com/emoon0108/HealthyEaters",
   "https://github.com/emoon0108/sportlingo-referral-dashboard",
@@ -25,7 +26,7 @@ for (const stale of [/\bincoming\b/i, /\/Users\//, /@gmail\.com/i, /@aquinas\.ed
 const selectedRows = readme
   .split("\n")
   .filter((line) => line.startsWith("| ["));
-assert.equal(selectedRows.length, 4, "Selected work should stay focused on exactly four flagship projects");
+assert.equal(selectedRows.length, 5, "Selected work should stay focused on exactly five flagship projects");
 
 const liveTargets = [
   ["portfolio", "https://emoon0108.github.io/", "text/html"],
