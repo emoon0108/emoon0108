@@ -10,7 +10,7 @@ I turn noisy physical-world data into software people can use: audio feedback, d
 
 | Project | Engineering focus | Proof |
 | --- | --- | --- |
-| [NoSpoilers](https://github.com/BoatingToast/nospoilers) | Collaborative full-stack movie discovery product with recommendations, social features, creator uploads, and a privacy-first spoiler-blocking extension | [Live product](https://nospoilers-blush.vercel.app/) · 57 automated tests |
+| [NoSpoilers](https://github.com/BoatingToast/nospoilers) | Collaborative full-stack movie discovery product with recommendations, social features, creator uploads, and a privacy-first spoiler-blocking extension | [Live product](nospoilers.xyz) · 57 automated tests |
 | [AcademiQ](https://github.com/emoon0108/academic-planner) | Constraint-aware degree planner with prerequisite modeling, schedule comparison, registration-conflict detection, and a credential-free local demo | Screenshot-led README · 43 automated tests |
 | [ViolinTwin](https://github.com/emoon0108/ViolinTwin) | React Native practice coach with audio analysis, MusicXML/MIDI targets, correction loops, and a native real-time tuner bridge | [Project page](https://emoon0108.github.io/ViolinTwin/) · 7 audio-analysis tests |
 | [Healthy Eaters](https://github.com/emoon0108/HealthyEaters) | Autism-aware nutrition prototype with a simulated smart plate, low-stimulation UX, rewards, and local progress tracking | [Project page](https://emoon0108.github.io/HealthyEaters/) · 9 domain tests |
