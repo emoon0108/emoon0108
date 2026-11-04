@@ -7,7 +7,7 @@ const requiredText = [
   "University of Michigan computer science engineering student",
   "mailto:ethmoon@umich.edu",
   "https://emoon0108.github.io/Ethan_Moon_Resume.pdf",
-  "https://www.linkedin.com/in/ethan-moon-b9a2a7314/",
+  "https://www.linkedin.com/in/ethan-moon0108/",
   "https://github.com/BoatingToast/nospoilers",
   "https://github.com/emoon0108/academic-planner",
   "https://github.com/emoon0108/ViolinTwin",
@@ -31,7 +31,7 @@ assert.equal(selectedRows.length, 5, "Selected work should stay focused on exact
 const liveTargets = [
   ["portfolio", "https://emoon0108.github.io/", "text/html"],
   ["resume", "https://emoon0108.github.io/Ethan_Moon_Resume.pdf", "application/pdf"],
-  ["NoSpoilers", "https://nospoilers-blush.vercel.app/", "text/html"],
+  ["NoSpoilers", "https://nospoilers.xyz/", "text/html"],
   ["ViolinTwin", "https://emoon0108.github.io/ViolinTwin/", "text/html"],
   ["Healthy Eaters", "https://emoon0108.github.io/HealthyEaters/", "text/html"],
   ["Referral Intelligence", "https://emoon0108.github.io/sportlingo-referral-dashboard/", "text/html"],
